@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexbloodymorsa
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning web programming and machine learning.
+- 💞️ I’m looking to collaborate on my own projects. 
+- 📫 How to reach me: alex.barreiro.v@gmail.com
